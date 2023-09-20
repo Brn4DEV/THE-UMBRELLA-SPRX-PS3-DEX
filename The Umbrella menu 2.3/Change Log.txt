@@ -1,0 +1,16 @@
+-removed Player Local Money Drops
+-added Ram Protection
+-added Aim Protection
+-added Explode Killer
+-added Non Host Kick Protect
+-added Vote Kick Protect
+-added remote script leave Protect
+-added anti ParticleFX
+-removed Explode Players
+-removed Nuke All Players
+-removed Nuke All loop
+-fixed menu bool
+-fixed menu GUI
+-fixed non host Kick
+-fixed derrank player
+-fixed give rp player

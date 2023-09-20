@@ -1,0 +1,23 @@
+Vesion 3.0
+-removed: Fun Gun
+-removed: Fun Gun For All
+-added: Ant Blame Protect
+-added: Give RP 8000
+-added: Derrank Player
+-added: No host Kick
+-added: Remote Recovery Player
+-added: Player Unlock Heist Vehicles
+-added: Player Redesign Character
+-added: Player Unlock All Heist Trophies
+-added: Player Unlock All Hair Cuts
+-added: Player Unlock All Tattoos
+-added: Player Remove Badsport
+-added: Player Give Badsport
+-added: Player Enable Roosevelt
+-added: Player Bypass Vehicle Sell Time
+-added: remote script leave Protect
+-added: Particle fx Protect
+-added: Ant Blame Protect
+-added:Request Control Protect
+-added: Ant Cargo Plane Protect
+-Fixed: Bugs in GUI Menu
